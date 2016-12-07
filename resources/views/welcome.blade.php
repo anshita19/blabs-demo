@@ -115,7 +115,7 @@
                     <div class="links">
                         <a href="/restaurants">Restaurants</a>
                         <a href="/ember">Ember</a>
-                        <a href="">GitHub</a>
+                        <a href="https://github.com/anshita19/blabs-demo">GitHub</a>
                     </div>
                 </div>
             </div>
